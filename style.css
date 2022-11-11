@@ -1,0 +1,19 @@
+.yellow-text {
+    color: yellow;
+}
+
+.carousel-item img {
+    margin:auto;
+    height: 400px;
+    
+}
+.pink {
+    background-color: pink;
+}
+
+.blue {
+    background-color: blue;
+}
+.green {
+    background-color: darkgreen;
+}
